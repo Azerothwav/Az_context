@@ -6,7 +6,3 @@ client_scripts {
 	'client/native_ui.lua',
 	'client/*.lua',
 }
-
-exports {
-    "ShowContextMenu"
-}
